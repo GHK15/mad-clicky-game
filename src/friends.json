@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/don-draper-lg.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/betty-francis-lg.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/peggy-olsen-lg.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/pete-campbell-lg.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/joan-harris-lg.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/roger-sterling-lg.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/sally-draper-lg.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/megan-draper-lg.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/ken-cosgrove-lg.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/harry-crane-lg.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/stan-rizzo-lg.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/henry-francis-lg.jpg",
+    "clicked": false
+  }
+]
+
+
+
